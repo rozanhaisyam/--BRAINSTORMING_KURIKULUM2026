@@ -20,6 +20,10 @@ Standar rujukan:
 
 ---
 
+## Akses dokumen Kurikulum 2026 SiTI/SISTEKIN
+
+Untuk permintaan mencari, membaca, atau mengutip dokumen Kurikulum 2026 SiTI/SISTEKIN dari GitHub, muat skill proyek [`kurikulum-github-access`](.opencode/skills/kurikulum-github-access/SKILL.md). Jika runtime tidak punya pemuat skill, baca `SKILL.md` tersebut langsung dan ikuti alurnya. Gunakan repo `roniwahyu/--BRAINSTORMING_KURIKULUM2026`, folder `KURIKULUM2026_REVISI/`, bukan checkout lokal sebagai pengganti tanpa konfirmasi. Permintaan akses baca tidak perlu melalui tahapan desain di bawah.
+
 ## Master Workflow (Langkah bertahap — JANGAN kerjakan sekaligus)
 
 Gunakan prompt bertahap ini. Tiap langkah harus menunggu konfirmasi user sebelum lanjut:

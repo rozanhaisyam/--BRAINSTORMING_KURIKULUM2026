@@ -17,8 +17,12 @@ Repositori kerja penyusunan Kurikulum OBE Program Studi **Sistem dan Teknologi I
 | Akses bacaan web | [Portal HTML](KURIKULUM2026_REVISI/index.html) | Navigasi tambahan; perhatikan peringatan versi pada portal. |
 | Aturan untuk kontributor dan agent | [AGENTS.md](AGENTS.md) | Ketentuan proyek, sumber, dan alur kerja. |
 | Akses dokumen SiTI/SISTEKIN dari repo GitHub sumber | [Skill `kurikulum-github-access`](.opencode/skills/kurikulum-github-access/SKILL.md) | Menemukan, membaca, dan mengutip dokumen `KURIKULUM2026_REVISI/` dari repo `roniwahyu/--BRAINSTORMING_KURIKULUM2026`. |
+| Penyusunan LED, LKPS, dan instrumen akreditasi Sarjana | [Skill `led-akreditasi-sarjana`](.opencode/skills/led-akreditasi-sarjana/SKILL.md) | Peta indikator LAM INFOKOM 2.1 untuk Status Terakreditasi, templat pengisian, dan reviu bukti. |
 
-Contoh prompt untuk agent: “Gunakan skill `kurikulum-github-access` untuk mencari RPS STI-102 Kurikulum 2026 dan berikan tautan berkas sumbernya.”
+Contoh prompt untuk agent:
+
+- “Gunakan `kurikulum-github-access` untuk mencari RPS STI-102 Kurikulum 2026 dan berikan tautan berkas sumbernya.”
+- “Gunakan `led-akreditasi-sarjana` untuk menjelaskan butir 1a–1e dan membuat matriks bukti PPEPP untuk SISTEKIN.”
 
 ## Struktur repositori
 

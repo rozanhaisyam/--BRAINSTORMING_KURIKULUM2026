@@ -16,6 +16,9 @@ Repositori kerja penyusunan Kurikulum OBE Program Studi **Sistem dan Teknologi I
 | Revisi Web Front End | [Rancangan STI-311](KURIKULUM2026_REVISI/043_STI-311_WEB_FRONT_END_DEVELOPMENT_DASAR_USULAN_07112026.md) · [Audit dampak](KURIKULUM2026_REVISI/LAPORAN_AUDIT_DAMPAK_STI-311.md) | Lingkup baru dan pekerjaan validasi MK hilir. |
 | Akses bacaan web | [Portal HTML](KURIKULUM2026_REVISI/index.html) | Navigasi tambahan; perhatikan peringatan versi pada portal. |
 | Aturan untuk kontributor dan agent | [AGENTS.md](AGENTS.md) | Ketentuan proyek, sumber, dan alur kerja. |
+| Akses dokumen SiTI/SISTEKIN dari repo GitHub sumber | [Skill `kurikulum-github-access`](.opencode/skills/kurikulum-github-access/SKILL.md) | Menemukan, membaca, dan mengutip dokumen `KURIKULUM2026_REVISI/` dari repo `roniwahyu/--BRAINSTORMING_KURIKULUM2026`. |
+
+Contoh prompt untuk agent: “Gunakan skill `kurikulum-github-access` untuk mencari RPS STI-102 Kurikulum 2026 dan berikan tautan berkas sumbernya.”
 
 ## Struktur repositori
 
